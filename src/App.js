@@ -7,7 +7,7 @@ import Store from './Store/configureStore'
 import { Provider, connect } from 'react-redux';
 import Home from './Components/Home';
 class App extends React.Component {
-
+//add comment
   constructor(props){
     super(props)
   }
